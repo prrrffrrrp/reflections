@@ -24,3 +24,9 @@
     history organized? How would branches help?
 
       They help develop parallell versions of a program.
+
+  - How do the diagrams help you vizualize the branch structure?
+
+      It is a neat maner to represent everything envolved with the version
+      control thing. They show the chronology, the branches, the commits...
+      Everything!
