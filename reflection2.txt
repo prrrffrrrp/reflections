@@ -13,3 +13,9 @@
       The staging area is like a waiting room. You put in there files that are
       going to be commited in the repository. It allows to commit a concrete number of
       files at a time.
+
+  - How can you use the staging area to make sure you have one commit per
+    logical change?
+
+      Maybe typing git diff and seing the diffs between the files in the
+      working directory and the files in the stage area? I don't know actually.
