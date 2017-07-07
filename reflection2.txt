@@ -19,3 +19,8 @@
 
       Maybe typing git diff and seing the diffs between the files in the
       working directory and the files in the stage area? I don't know actually.
+
+  - What are some situations when branches would be helpful in keeping your
+    history organized? How would branches help?
+
+      They help develop parallell versions of a program.
