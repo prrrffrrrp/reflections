@@ -30,3 +30,15 @@
       It is a neat maner to represent everything envolved with the version
       control thing. They show the chronology, the branches, the commits...
       Everything!
+
+  - What is the result of merging two branches together? Why do we represent it
+    in the diagram the way we do?
+
+     When we merge two branches we merge the history of commits. Instead of
+     having two separate paths where on can see the sequence of the logical
+     changes, after the commit the two sequences become one and the logs of the
+     commits don't necessarily reflect anymore some kind of liniar logic. 
+     We represent the merge as a the joining point of two subway routes. If we
+     had a more interactive way of showing the result of a merge, the 2 paths
+     would shifth towards one each other and would become one all along the
+     way.
