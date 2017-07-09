@@ -1,3 +1,11 @@
-    - When would you want to use a remote repository rather than keeping all your work local?
-        A remote repository could be a must when working with others. Also, it can be convenient to have ones files in the cloud
-        and being able to access them from anywhere.
+  - When would you want to use a remote repository rather than keeping all your
+  work local?
+     A remote repository could be a must when working with others. Also, it can
+     be convenient to have ones files in the cloud and being able to access
+     them from anywhere.
+
+  -Why might you want to always pull changes manually rather than having Git
+  automatically stay up-to-date with your remote repository?
+
+    The remote repository is public. Anyone can see it. Maybe you don't want to
+    show everything you do.
