@@ -9,3 +9,16 @@
 
     The remote repository is public. Anyone can see it. Maybe you don't want to
     show everything you do.
+
+  - Describe the differences between forks, clones and branches. When would you
+    use one instead of another?
+
+      Branches are like new paths that one can open at some point of the log
+      history. There's already some work done and we can continue this work in
+      parallell in two different branches beacause (maybe) we are trying to
+      achieve two different things or to achieve it in two different maners.
+
+      A clone is a copy of a repository. It is a start. 
+
+      Forks are kinda GitHub clones. But they have some features that clones
+      don't have. For example, GitHub can track the number of forks done in a repository.
