@@ -43,5 +43,7 @@
      would shifth towards one each other and would become one all along the
      way.
 
-
-     613f5f2199b467c08b45e144d238c093040cbc5f
+  - What are the pros and cons of Git's automatic merging vs. always doing
+    merges manually?
+  
+      ...
