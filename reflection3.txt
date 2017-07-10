@@ -22,3 +22,9 @@
 
       Forks are kinda GitHub clones. But they have some features that clones
       don't have. For example, GitHub can track the number of forks done in a repository.
+
+  - What is the benefit of having a copy of the last known state of the remote
+    stored locally?
+
+     That means that you area up to date. Hopefully you have solved any
+     existing conflicts. That makes the next merges easier.
