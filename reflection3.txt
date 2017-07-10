@@ -28,3 +28,10 @@
 
      That means that you area up to date. Hopefully you have solved any
      existing conflicts. That makes the next merges easier.
+
+  - How would you collaborate without using Git or GitHub? What would be
+    easier, and what would be harder?
+
+      The easier thing would be to post the code on an online platform and to guarantee
+      access to all the collaborators.
+      The hardest would be using telepathy.
