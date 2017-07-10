@@ -35,3 +35,10 @@
       The easier thing would be to post the code on an online platform and to guarantee
       access to all the collaborators.
       The hardest would be using telepathy.
+
+  - When would you want to make changes in a separate branch rather than
+    directly in master? What benefits does each approach have?
+
+      I would make changes in a different branch if i were to try something,
+      I'm not sure of. It gives me the freedom to experiment knowing that I'm
+      not going to break my master branch.
